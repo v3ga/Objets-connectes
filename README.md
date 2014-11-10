@@ -12,6 +12,9 @@ Cet atelier a permis de se familiariser avec cette technologie en combinant des 
 
 Les onze étudiants de l'atelier ont formé quatre groupes pour travailler sur la plateforme [Arduino](http://www.arduino.cc), avec des extensions matérielles et logicielles adéquates. Les groupes A & B ont travaillé de concert sur une plateforme d'envoi/réception de données en ligne.
 
+Une page d'introduction généraliste est disponible ici : http://www.v3ga.net/workshops/arduino/bordeauxIII/objets/
+
+** Crédits photo **
 Tous les clichés suivants ont été pris par Alice au cours de l'atelier.
 
 ## Groupe A

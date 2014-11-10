@@ -57,11 +57,13 @@ Tous les clichés suivants ont été pris par Alice au cours de l'atelier.
 ![Arduino, Temboo & Google Drive](http://v3ga.github.io/Images/Objets-connectes/07_GroupeB_01.JPG)  
 
 ## Photos
-![Cablage de composants](http://v3ga.github.io/Images/Objets-connectes/02_Arduino_cablage.JPG)
-![Matériel pour le RFID](http://v3ga.github.io/Images/Objets-connectes/01_Arduino_RFID_shield_breadboard_tags.JPG)
 ![Starter kit pour Arduino](http://v3ga.github.io/Images/Objets-connectes/03_Arduino_starter_kit.JPG)
+![Matériel pour le RFID](http://v3ga.github.io/Images/Objets-connectes/01_Arduino_RFID_shield_breadboard_tags.JPG)
+![Cablage de composants](http://v3ga.github.io/Images/Objets-connectes/02_Arduino_cablage.JPG)
+![Ongles violets & diode jaune](http://v3ga.github.io/Images/Objets-connectes/11_Arduino_test_capteur.JPG)
+![Test capteur de lumière](http://v3ga.github.io/Images/Objets-connectes/10_Arduino_test_capteur.JPG)
 ![Ludivine en train de souder](http://v3ga.github.io/Images/Objets-connectes/08_Ludivine_soude.JPG)  
+![Analyse de sketch](http://v3ga.github.io/Images/Objets-connectes/12_Arduino_Julien_Oussama_Pierre_Julien.JPG)
 ![Fin du workshop :-)](http://v3ga.github.io/Images/Objets-connectes/04_Julien_Paon.JPG)  
-
 
 

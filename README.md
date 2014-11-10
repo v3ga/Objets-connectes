@@ -1,4 +1,8 @@
 ### Objets connectés
+Atelier avec les étudiants en deuxième année de [Master pro Design](http://www.u-bordeaux-montaigne.fr/fr/formations/offre_de_formation/master-XB/arts-lettres-langues-ALL/master-professionnel-design-innovation-technologie-arts-program-mag-21.html#presentation) du 5 au 7 Novembre 2014 à l'université de Bordeaux III.
+
+![Hello, world](http://v3ga.github.io/Images/Objets-connectes/05_Arduino_Afficheur_LCD_Hello_Master_design.JPG)
+
 Badger avec sa carte d’abonné(e) dans le tram, suivre un colis à la trace sur internet ou emprunter un livre à la bibliothèque sont des actions de la vie courante impliquant l’utilisation des techniques de radio-identification (ou RFID).
 
 Cet atelier s'est inscrit dans la continuité des recherches menés par les étudiants en deuxième année du [Master Professionnel Design](http://www.u-bordeaux-montaigne.fr/fr/formations/offre_de_formation/master-XB/arts-lettres-langues-ALL/master-professionnel-design-innovation-technologie-arts-program-mag-21.html#presentation) de l'université de Bordeaux III sur leur projet de création de services lié au maintien des personness âgées à domicile et à l'aide au vieillissement dans le cadre plus général de la [«Silver Economie»](http://www.social-sante.gouv.fr/espaces,770/personnes-agees-autonomie,776/dossiers,758/silver-economie,2432/), lancé par l'État français en 2013.

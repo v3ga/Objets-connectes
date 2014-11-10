@@ -15,6 +15,7 @@ Les onze étudiants de l'atelier ont formé quatre groupes pour travailler sur l
 Une page d'introduction généraliste est disponible ici : http://www.v3ga.net/workshops/arduino/bordeauxIII/objets/
 
 **Crédits photos**
+
 Tous les clichés suivants ont été pris par Alice au cours de l'atelier.
 
 ## Groupe A

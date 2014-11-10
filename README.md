@@ -6,7 +6,7 @@ Cette approche technique fait suite au travail d'observation et de récoltes de 
 
 Cet atelier a permis de se familiariser avec cette technologie en combinant des objets existants (cartes de tram, téléphone mobile avec lecteur RFID par exemple) et des appareils électroniques programmables. Les participants à ce workshop ont été initiés à la programmation pour imaginer, détourner, créer des systèmes ou des objets autour de ces techniques. Parallèlement, une réflexion a été menée sur les questions d’éthique liées à l’utilisation de ces objets communicants en société.
 
-Les onze étudiants de l'atelier ont formé quatre groupes pour travailler sur la plateforme [Arduino](http://www.arduino.cc), avec des extensions matérielles et logicielles adéquates.
+Les onze étudiants de l'atelier ont formé quatre groupes pour travailler sur la plateforme [Arduino](http://www.arduino.cc), avec des extensions matérielles et logicielles adéquates. Les groupes A & B ont travaillé de concert sur une plateforme d'envoi/réception de données en ligne.
 
 ## Groupe A
 * Fatou, Pierre et Alexis
@@ -17,6 +17,9 @@ Les onze étudiants de l'atelier ont formé quatre groupes pour travailler sur l
   * capteurs de lumière, Piezo, diodes, diode RGB
 * Logiciels
   * [Temboo pour Arduino](https://temboo.com/arduino/others/)
+  * [Google Drive](https://www.google.com/drive/)
+
+![Capteur de lumière & diode RGB](http://v3ga.github.io/Images/Objets-connectes/09_GroupeA_01.JPG)  
 
 ## Groupe B
 * Julien et Oussama
@@ -26,6 +29,7 @@ Les onze étudiants de l'atelier ont formé quatre groupes pour travailler sur l
   * capteurs de lumière, Piezo, diodes, diode RGB
 * Logiciels
   * [Temboo pour Arduino](https://temboo.com/arduino/others/)
+  * [Google Drive](https://www.google.com/drive/)
 
 
 ## Groupe C
@@ -34,8 +38,7 @@ Les onze étudiants de l'atelier ont formé quatre groupes pour travailler sur l
   * [Arduino Uno](http://www.adafruit.com/product/50)
   * [Shield RFID](http://www.adafruit.com/product/789)
   * [Afficheur LCD 16x2](http://arduino.cc/documents/datasheets/LCD-WH1602B-TMI.pdf)
-  * capteurs de lumière, diodes
-
+  * capteurs de lumière, diodes, puces RFID, téléphone mobile
 
 
 ## Groupe D
@@ -44,7 +47,7 @@ Les onze étudiants de l'atelier ont formé quatre groupes pour travailler sur l
   * [Arduino Uno](http://www.adafruit.com/product/50)
   * [Shield RFID](http://www.adafruit.com/product/789)
   * [Afficheur LCD 16x2](http://arduino.cc/documents/datasheets/LCD-WH1602B-TMI.pdf)
-  * capteurs de lumière, Piezo, diodes
+  * capteurs de lumière, Piezo, diodes, puces RFID
 
 
 ## Photos

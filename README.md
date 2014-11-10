@@ -1,5 +1,5 @@
 ### Objets connectés
-Atelier avec les étudiants en deuxième année de [Master pro Design](http://www.u-bordeaux-montaigne.fr/fr/formations/offre_de_formation/master-XB/arts-lettres-langues-ALL/master-professionnel-design-innovation-technologie-arts-program-mag-21.html#presentation) du 5 au 7 Novembre 2014 à l'université de Bordeaux III.
+*Atelier avec les étudiants en deuxième année de [Master pro Design](http://www.u-bordeaux-montaigne.fr/fr/formations/offre_de_formation/master-XB/arts-lettres-langues-ALL/master-professionnel-design-innovation-technologie-arts-program-mag-21.html#presentation) du 5 au 7 Novembre 2014 à l'université de Bordeaux III sous la direction de Julien Gachadoat et Stéphanie Cardoso.*
 
 ![Hello, world](http://v3ga.github.io/Images/Objets-connectes/05_Arduino_Afficheur_LCD_Hello_Master_design.JPG)
 
@@ -47,7 +47,7 @@ Tous les clichés suivants ont été pris par Alice au cours de l'atelier.
   * [Afficheur LCD 16x2](http://arduino.cc/documents/datasheets/LCD-WH1602B-TMI.pdf)
   * capteurs de lumière, diodes, puces RFID, téléphone mobile
 
-![Arduino, Temboo & Google Drive](http://v3ga.github.io/Images/Objets-connectes/06_GroupeC_02.JPG)  
+![Hello, Jean-Jacques](http://v3ga.github.io/Images/Objets-connectes/06_GroupeC_02.JPG)  
 
 
 ## Groupe D
@@ -58,7 +58,7 @@ Tous les clichés suivants ont été pris par Alice au cours de l'atelier.
   * [Afficheur LCD 16x2](http://arduino.cc/documents/datasheets/LCD-WH1602B-TMI.pdf)
   * capteurs de lumière, Piezo, diodes, puces RFID
 
-![Arduino, Temboo & Google Drive](http://v3ga.github.io/Images/Objets-connectes/07_GroupeB_01.JPG)  
+![Bernard de la chambre 302 est passé](http://v3ga.github.io/Images/Objets-connectes/14_GroupeD_01.JPG)  
 
 ## Photos
 ![Starter kit pour Arduino](http://v3ga.github.io/Images/Objets-connectes/03_Arduino_starter_kit.JPG)

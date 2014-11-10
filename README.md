@@ -8,6 +8,8 @@ Cet atelier a permis de se familiariser avec cette technologie en combinant des 
 
 Les onze étudiants de l'atelier ont formé quatre groupes pour travailler sur la plateforme [Arduino](http://www.arduino.cc), avec des extensions matérielles et logicielles adéquates. Les groupes A & B ont travaillé de concert sur une plateforme d'envoi/réception de données en ligne.
 
+Tous les clichés suivants ont été pris par Alice au cours de l'atelier.
+
 ## Groupe A
 * Fatou, Pierre et Alexis
 * Matériel et services utilisés
@@ -31,6 +33,7 @@ Les onze étudiants de l'atelier ont formé quatre groupes pour travailler sur l
   * [Temboo pour Arduino](https://temboo.com/arduino/others/)
   * [Google Drive](https://www.google.com/drive/)
 
+![Arduino, Temboo & Google Drive](http://v3ga.github.io/Images/Objets-connectes/07_GroupeB_01.JPG)  
 
 ## Groupe C
 * Alice, Elsa et Jonathan
@@ -39,6 +42,8 @@ Les onze étudiants de l'atelier ont formé quatre groupes pour travailler sur l
   * [Shield RFID](http://www.adafruit.com/product/789)
   * [Afficheur LCD 16x2](http://arduino.cc/documents/datasheets/LCD-WH1602B-TMI.pdf)
   * capteurs de lumière, diodes, puces RFID, téléphone mobile
+
+![Arduino, Temboo & Google Drive](http://v3ga.github.io/Images/Objets-connectes/06_GroupeC_02.JPG)  
 
 
 ## Groupe D
@@ -49,9 +54,14 @@ Les onze étudiants de l'atelier ont formé quatre groupes pour travailler sur l
   * [Afficheur LCD 16x2](http://arduino.cc/documents/datasheets/LCD-WH1602B-TMI.pdf)
   * capteurs de lumière, Piezo, diodes, puces RFID
 
+![Arduino, Temboo & Google Drive](http://v3ga.github.io/Images/Objets-connectes/07_GroupeB_01.JPG)  
 
 ## Photos
-Tous les clichés suivants ont été pris par Alice.
+![Cablage de composants](http://v3ga.github.io/Images/Objets-connectes/02_Arduino_cablage.JPG)
+![Matériel pour le RFID](http://v3ga.github.io/Images/Objets-connectes/01_Arduino_RFID_shield_breadboard_tags.JPG)
+![Starter kit pour Arduino](http://v3ga.github.io/Images/Objets-connectes/03_Arduino_starter_kit.JPG)
+![Ludivine en train de souder](http://v3ga.github.io/Images/Objets-connectes/08_Ludivine_soude.JPG)  
+![Fin du workshop :-)](http://v3ga.github.io/Images/Objets-connectes/04_Julien_Paon.JPG)  
 
 
 
